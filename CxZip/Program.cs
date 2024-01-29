@@ -7,7 +7,7 @@ namespace CxZip
       //---------------------------------------------------------------------------------------------------------------------------------------------
       #region Variables
 
-      static readonly string VERSION = "2.0";
+      static readonly string VERSION = "1.0";
       static string dest = "";
       static string src = "";
       static string whitelistSrc = "";
